@@ -1,0 +1,5 @@
+var getRestaurantCity = function(city) {
+    var apiUrl = "https://opentable.herokuapp.com/api/restaurants?q=" + city;
+  
+    fetch(apiUrl);
+  };
