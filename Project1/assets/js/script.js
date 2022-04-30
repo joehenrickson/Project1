@@ -24,7 +24,7 @@ button.addEventListener('click', function () {
 });
 
 function myFunction() {
-	document.getElementById("btnClick").userLocation;
+	document.getElementById("btnClick").currentPosition;
 }
 
 
